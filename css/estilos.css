@@ -1,5 +1,19 @@
+.body {
+    background-color: aliceblue;
+}
+
 h1 {
-    color:blue;
-    background-color: yellow;
+    text-align: center;
+    font-size: 30px;
+    color: grey;
     font-family: sans-serif;
+}
+
+.tablainformacion {
+    border-style: dotted; 
+    border-width: 1px; 
+    border-color: 660033; 
+    background-color: CC3366; 
+    font-family: verdana, arial; 
+    font-size: 10pt; 
 }
